@@ -2,7 +2,7 @@ name: CEnT-S monitor
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 15 minutes (GitHub may delay a few minutes)
+    - cron: "7,22,37,52 * * * *"   # every 15 minutes (GitHub may delay a few minutes)
   workflow_dispatch:          # lets you run it manually from the Actions tab
 
 permissions:
