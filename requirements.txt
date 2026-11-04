@@ -1,0 +1,5 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+PySocks>=1.7.1
+# Optional (only if the website ever starts loading its calendar with JavaScript):
+#   pip install playwright   and then   playwright install chromium
