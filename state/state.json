@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "initialized": true,
+ "url": "https://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+ "sessions": {
+  "f967b6e58287df34": {
+   "format": "CENT@HOME",
+   "university": "Sapienza Università di Roma",
+   "region": "LAZIO",
+   "city": "ROMA",
+   "deadline": "20/11/2026",
+   "seats": "---",
+   "state": "NOT LONGER AVAILABLE",
+   "date": "26/11/2026"
+  }
+ },
+ "last_success": null,
+ "outbox": [],
+ "next_id": 2,
+ "pending_empty": 0,
+ "consecutive_failures": 0,
+ "last_error_notice": null,
+ "error_active": false
+}
