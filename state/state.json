@@ -12,11 +12,21 @@
    "seats": "---",
    "state": "NOT LONGER AVAILABLE",
    "date": "26/11/2026"
+  },
+  "37d87db5169084ef": {
+   "format": "CENT@HOME",
+   "university": "Politecnico di Milano",
+   "region": "LOMBARDIA",
+   "city": "MILANO",
+   "deadline": "20/11/2026",
+   "seats": "162",
+   "state": "AVAILABLE SEATS",
+   "date": "26/11/2026"
   }
  },
  "last_success": null,
  "outbox": [],
- "next_id": 2,
+ "next_id": 3,
  "pending_empty": 0,
  "consecutive_failures": 0,
  "last_error_notice": null,
