@@ -3,6 +3,16 @@
  "initialized": true,
  "url": "https://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
  "sessions": {
+  "a841078eb7400275": {
+   "format": "CENT@UNI",
+   "university": "Universita' degli studi di Messina",
+   "region": "SICILIA",
+   "city": "MESSINA",
+   "deadline": "20/11/2026",
+   "seats": "85",
+   "state": "AVAILABLE SEATS",
+   "date": "26/11/2026"
+  },
   "f967b6e58287df34": {
    "format": "CENT@HOME",
    "university": "Sapienza Università di Roma",
@@ -23,20 +33,40 @@
    "state": "NOT LONGER AVAILABLE",
    "date": "26/11/2026"
   },
+  "4467cf7beeaca288": {
+   "format": "CENT@HOME",
+   "university": "Università degli studi di Padova",
+   "region": "VENETO",
+   "city": "PADOVA",
+   "deadline": "20/11/2026",
+   "seats": "---",
+   "state": "NOT LONGER AVAILABLE",
+   "date": "26/11/2026"
+  },
+  "5c59e0775e6c5660": {
+   "format": "CENT@UNI",
+   "university": "Universita' degli studi di Messina",
+   "region": "SICILIA",
+   "city": "MESSINA",
+   "deadline": "11/12/2026",
+   "seats": "85",
+   "state": "AVAILABLE SEATS",
+   "date": "17/12/2026"
+  },
   "d9973535a08f9a9c": {
    "format": "CENT@UNI",
    "university": "Politecnico di Torino",
    "region": "PIEMONTE",
    "city": "TORINO",
    "deadline": "06/01/2027",
-   "seats": "110",
+   "seats": "15",
    "state": "AVAILABLE SEATS",
    "date": "12/01/2027"
   }
  },
  "last_success": null,
  "outbox": [],
- "next_id": 7,
+ "next_id": 11,
  "pending_empty": 0,
  "consecutive_failures": 0,
  "last_error_notice": null,
