@@ -29,14 +29,14 @@
    "region": "PIEMONTE",
    "city": "TORINO",
    "deadline": "06/01/2027",
-   "seats": "149",
+   "seats": "126",
    "state": "AVAILABLE SEATS",
    "date": "12/01/2027"
   }
  },
  "last_success": null,
  "outbox": [],
- "next_id": 5,
+ "next_id": 6,
  "pending_empty": 0,
  "consecutive_failures": 0,
  "last_error_notice": null,
