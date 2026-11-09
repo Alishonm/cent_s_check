@@ -9,7 +9,7 @@
    "region": "FRIULI-VENEZIA GIULIA",
    "city": "TRIESTE",
    "deadline": "20/11/2026",
-   "seats": "146",
+   "seats": "144",
    "state": "AVAILABLE SEATS",
    "date": "26/11/2026"
   },
@@ -19,7 +19,7 @@
    "region": "SICILIA",
    "city": "MESSINA",
    "deadline": "20/11/2026",
-   "seats": "77",
+   "seats": "76",
    "state": "AVAILABLE SEATS",
    "date": "26/11/2026"
   },
@@ -59,7 +59,7 @@
    "region": "SICILIA",
    "city": "MESSINA",
    "deadline": "11/12/2026",
-   "seats": "73",
+   "seats": "68",
    "state": "AVAILABLE SEATS",
    "date": "17/12/2026"
   },
@@ -79,7 +79,7 @@
   {
    "id": 14,
    "text": "🆕 تاریخ آزمون جدید CEnT-S پیدا شد!\n\nFormat: CENT@UNI\nUniversity: Universita' degli studi di Trieste\nRegion: FRIULI-VENEZIA GIULIA\nCity: TRIESTE\nExam Date: 26/11/2026\nBooking Deadline: 20/11/2026\nAvailable Seats: 152\nStatus: AVAILABLE SEATS\n✅ ثبت‌نام در حال حاضر باز به نظر می‌رسد.\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
-   "tries": 9,
+   "tries": 10,
    "silent": false
   },
   {
@@ -135,9 +135,27 @@
    "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Messina\nFormat: CENT@UNI\nCity: MESSINA\nExam Date: 17/12/2026\n\nPrevious seats: 74\nNew seats: 73\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
    "tries": 0,
    "silent": false
+  },
+  {
+   "id": 24,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Trieste\nFormat: CENT@UNI\nCity: TRIESTE\nExam Date: 26/11/2026\n\nPrevious seats: 146\nNew seats: 144\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 25,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Messina\nFormat: CENT@UNI\nCity: MESSINA\nExam Date: 26/11/2026\n\nPrevious seats: 77\nNew seats: 76\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 26,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Messina\nFormat: CENT@UNI\nCity: MESSINA\nExam Date: 17/12/2026\n\nPrevious seats: 73\nNew seats: 68\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
   }
  ],
- "next_id": 24,
+ "next_id": 27,
  "pending_empty": 0,
  "consecutive_failures": 0,
  "last_error_notice": null,
