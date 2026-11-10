@@ -9,7 +9,7 @@
    "region": "FRIULI-VENEZIA GIULIA",
    "city": "TRIESTE",
    "deadline": "20/11/2026",
-   "seats": "98",
+   "seats": "96",
    "state": "AVAILABLE SEATS",
    "date": "26/11/2026"
   },
@@ -19,7 +19,7 @@
    "region": "SICILIA",
    "city": "MESSINA",
    "deadline": "20/11/2026",
-   "seats": "76",
+   "seats": "74",
    "state": "AVAILABLE SEATS",
    "date": "26/11/2026"
   },
@@ -53,6 +53,16 @@
    "state": "NOT LONGER AVAILABLE",
    "date": "26/11/2026"
   },
+  "909f74abc4c874cd": {
+   "format": "CENT@HOME",
+   "university": "Università degli studi di Teramo",
+   "region": "ABRUZZO",
+   "city": "TERAMO",
+   "deadline": "20/11/2026",
+   "seats": "46",
+   "state": "AVAILABLE SEATS",
+   "date": "26/11/2026"
+  },
   "a85ba2a361fad6e8": {
    "format": "CENT@HOME",
    "university": "Università Ca' Foscari Venezia",
@@ -69,7 +79,7 @@
    "region": "SICILIA",
    "city": "MESSINA",
    "deadline": "11/12/2026",
-   "seats": "57",
+   "seats": "60",
    "state": "AVAILABLE SEATS",
    "date": "17/12/2026"
   },
@@ -89,7 +99,7 @@
   {
    "id": 14,
    "text": "🆕 تاریخ آزمون جدید CEnT-S پیدا شد!\n\nFormat: CENT@UNI\nUniversity: Universita' degli studi di Trieste\nRegion: FRIULI-VENEZIA GIULIA\nCity: TRIESTE\nExam Date: 26/11/2026\nBooking Deadline: 20/11/2026\nAvailable Seats: 152\nStatus: AVAILABLE SEATS\n✅ ثبت‌نام در حال حاضر باز به نظر می‌رسد.\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
-   "tries": 12,
+   "tries": 13,
    "silent": false
   },
   {
@@ -187,9 +197,33 @@
    "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Trieste\nFormat: CENT@UNI\nCity: TRIESTE\nExam Date: 26/11/2026\n\nPrevious seats: 99\nNew seats: 98\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
    "tries": 0,
    "silent": false
+  },
+  {
+   "id": 31,
+   "text": "🆕 تاریخ آزمون جدید CEnT-S پیدا شد!\n\nFormat: CENT@HOME\nUniversity: Università degli studi di Teramo\nRegion: ABRUZZO\nCity: TERAMO\nExam Date: 26/11/2026\nBooking Deadline: 20/11/2026\nAvailable Seats: 46\nStatus: AVAILABLE SEATS\n✅ ثبت‌نام در حال حاضر باز به نظر می‌رسد.\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 32,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Trieste\nFormat: CENT@UNI\nCity: TRIESTE\nExam Date: 26/11/2026\n\nPrevious seats: 98\nNew seats: 96\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 33,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Messina\nFormat: CENT@UNI\nCity: MESSINA\nExam Date: 26/11/2026\n\nPrevious seats: 76\nNew seats: 74\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 34,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Messina\nFormat: CENT@UNI\nCity: MESSINA\nExam Date: 17/12/2026\n\nPrevious seats: 57\nNew seats: 60\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
   }
  ],
- "next_id": 31,
+ "next_id": 35,
  "pending_empty": 0,
  "consecutive_failures": 0,
  "last_error_notice": null,
