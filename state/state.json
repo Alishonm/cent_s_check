@@ -9,7 +9,7 @@
    "region": "FRIULI-VENEZIA GIULIA",
    "city": "TRIESTE",
    "deadline": "20/11/2026",
-   "seats": "76",
+   "seats": "75",
    "state": "AVAILABLE SEATS",
    "date": "26/11/2026"
   },
@@ -40,7 +40,7 @@
    "city": "MILANO",
    "deadline": "20/11/2026",
    "seats": "---",
-   "state": "NOT LONGER AVAILABLE",
+   "state": "NOT BOOKABLE",
    "date": "26/11/2026"
   },
   "4467cf7beeaca288": {
@@ -49,8 +49,8 @@
    "region": "VENETO",
    "city": "PADOVA",
    "deadline": "20/11/2026",
-   "seats": "---",
-   "state": "NOT LONGER AVAILABLE",
+   "seats": "2",
+   "state": "AVAILABLE SEATS",
    "date": "26/11/2026"
   },
   "909f74abc4c874cd": {
@@ -69,8 +69,8 @@
    "region": "VENETO",
    "city": "VENEZIA",
    "deadline": "20/11/2026",
-   "seats": "---",
-   "state": "NOT LONGER AVAILABLE",
+   "seats": "1",
+   "state": "AVAILABLE SEATS",
    "date": "26/11/2026"
   },
   "5c59e0775e6c5660": {
@@ -79,7 +79,7 @@
    "region": "SICILIA",
    "city": "MESSINA",
    "deadline": "11/12/2026",
-   "seats": "36",
+   "seats": "33",
    "state": "AVAILABLE SEATS",
    "date": "17/12/2026"
   },
@@ -91,6 +91,16 @@
    "deadline": "11/12/2026",
    "seats": "---",
    "state": "NOT LONGER AVAILABLE",
+   "date": "17/12/2026"
+  },
+  "59d0267a6364234b": {
+   "format": "CENT@HOME",
+   "university": "Politecnico di Milano",
+   "region": "LOMBARDIA",
+   "city": "MILANO",
+   "deadline": "11/12/2026",
+   "seats": "37",
+   "state": "AVAILABLE SEATS",
    "date": "17/12/2026"
   },
   "d9973535a08f9a9c": {
@@ -109,7 +119,7 @@
   {
    "id": 14,
    "text": "🆕 تاریخ آزمون جدید CEnT-S پیدا شد!\n\nFormat: CENT@UNI\nUniversity: Universita' degli studi di Trieste\nRegion: FRIULI-VENEZIA GIULIA\nCity: TRIESTE\nExam Date: 26/11/2026\nBooking Deadline: 20/11/2026\nAvailable Seats: 152\nStatus: AVAILABLE SEATS\n✅ ثبت‌نام در حال حاضر باز به نظر می‌رسد.\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
-   "tries": 44,
+   "tries": 45,
    "silent": false
   },
   {
@@ -507,9 +517,45 @@
    "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Messina\nFormat: CENT@UNI\nCity: MESSINA\nExam Date: 17/12/2026\n\nPrevious seats: 35\nNew seats: 36\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
    "tries": 0,
    "silent": false
+  },
+  {
+   "id": 81,
+   "text": "🆕 تاریخ آزمون جدید CEnT-S پیدا شد!\n\nFormat: CENT@HOME\nUniversity: Politecnico di Milano\nRegion: LOMBARDIA\nCity: MILANO\nExam Date: 17/12/2026\nBooking Deadline: 11/12/2026\nAvailable Seats: 37\nStatus: AVAILABLE SEATS\n✅ ثبت‌نام در حال حاضر باز به نظر می‌رسد.\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 82,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Trieste\nFormat: CENT@UNI\nCity: TRIESTE\nExam Date: 26/11/2026\n\nPrevious seats: 76\nNew seats: 75\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 83,
+   "text": "🔔 وضعیت ثبت‌نام تغییر کرد!\n\nUniversity: Politecnico di Milano\nFormat: CENT@HOME\nCity: MILANO\nExam Date: 26/11/2026\n\nPrevious status: NOT LONGER AVAILABLE\nNew status: NOT BOOKABLE\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 84,
+   "text": "🟢 ثبت‌نام برای این آزمون باز شد!\n\nUniversity: Università degli studi di Padova\nFormat: CENT@HOME\nCity: PADOVA\nExam Date: 26/11/2026\n\nPrevious seats: ---\nNew seats: 2\nPrevious status: NOT LONGER AVAILABLE\nNew status: AVAILABLE SEATS\nBooking Deadline: 20/11/2026\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 85,
+   "text": "🟢 ثبت‌نام برای این آزمون باز شد!\n\nUniversity: Università Ca' Foscari Venezia\nFormat: CENT@HOME\nCity: VENEZIA\nExam Date: 26/11/2026\n\nPrevious seats: ---\nNew seats: 1\nPrevious status: NOT LONGER AVAILABLE\nNew status: AVAILABLE SEATS\nBooking Deadline: 20/11/2026\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 86,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Messina\nFormat: CENT@UNI\nCity: MESSINA\nExam Date: 17/12/2026\n\nPrevious seats: 36\nNew seats: 33\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
   }
  ],
- "next_id": 81,
+ "next_id": 87,
  "pending_empty": 0,
  "consecutive_failures": 0,
  "last_error_notice": null,
