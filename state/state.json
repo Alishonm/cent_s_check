@@ -9,8 +9,8 @@
    "region": "FRIULI-VENEZIA GIULIA",
    "city": "TRIESTE",
    "deadline": "20/11/2026",
-   "seats": "70",
-   "state": "AVAILABLE SEATS",
+   "seats": "71",
+   "state": "BOOKINGS CLOSED",
    "date": "26/11/2026"
   },
   "a841078eb7400275": {
@@ -19,8 +19,8 @@
    "region": "SICILIA",
    "city": "MESSINA",
    "deadline": "20/11/2026",
-   "seats": "62",
-   "state": "AVAILABLE SEATS",
+   "seats": "60",
+   "state": "BOOKINGS CLOSED",
    "date": "26/11/2026"
   },
   "f967b6e58287df34": {
@@ -29,8 +29,8 @@
    "region": "LAZIO",
    "city": "ROMA",
    "deadline": "20/11/2026",
-   "seats": "---",
-   "state": "NOT LONGER AVAILABLE",
+   "seats": "0",
+   "state": "BOOKINGS CLOSED",
    "date": "26/11/2026"
   },
   "37d87db5169084ef": {
@@ -39,8 +39,8 @@
    "region": "LOMBARDIA",
    "city": "MILANO",
    "deadline": "20/11/2026",
-   "seats": "---",
-   "state": "NOT LONGER AVAILABLE",
+   "seats": "0",
+   "state": "BOOKINGS CLOSED",
    "date": "26/11/2026"
   },
   "4467cf7beeaca288": {
@@ -49,8 +49,8 @@
    "region": "VENETO",
    "city": "PADOVA",
    "deadline": "20/11/2026",
-   "seats": "---",
-   "state": "NOT LONGER AVAILABLE",
+   "seats": "0",
+   "state": "BOOKINGS CLOSED",
    "date": "26/11/2026"
   },
   "909f74abc4c874cd": {
@@ -59,8 +59,8 @@
    "region": "ABRUZZO",
    "city": "TERAMO",
    "deadline": "20/11/2026",
-   "seats": "---",
-   "state": "NOT LONGER AVAILABLE",
+   "seats": "0",
+   "state": "BOOKINGS CLOSED",
    "date": "26/11/2026"
   },
   "a85ba2a361fad6e8": {
@@ -69,8 +69,8 @@
    "region": "VENETO",
    "city": "VENEZIA",
    "deadline": "20/11/2026",
-   "seats": "---",
-   "state": "NOT LONGER AVAILABLE",
+   "seats": "0",
+   "state": "BOOKINGS CLOSED",
    "date": "26/11/2026"
   },
   "5c59e0775e6c5660": {
@@ -119,7 +119,7 @@
   {
    "id": 14,
    "text": "🆕 تاریخ آزمون جدید CEnT-S پیدا شد!\n\nFormat: CENT@UNI\nUniversity: Universita' degli studi di Trieste\nRegion: FRIULI-VENEZIA GIULIA\nCity: TRIESTE\nExam Date: 26/11/2026\nBooking Deadline: 20/11/2026\nAvailable Seats: 152\nStatus: AVAILABLE SEATS\n✅ ثبت‌نام در حال حاضر باز به نظر می‌رسد.\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
-   "tries": 48,
+   "tries": 49,
    "silent": false
   },
   {
@@ -613,9 +613,51 @@
    "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Trieste\nFormat: CENT@UNI\nCity: TRIESTE\nExam Date: 26/11/2026\n\nPrevious seats: 71\nNew seats: 70\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
    "tries": 0,
    "silent": false
+  },
+  {
+   "id": 97,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Trieste\nFormat: CENT@UNI\nCity: TRIESTE\nExam Date: 26/11/2026\n\nPrevious seats: 70\nNew seats: 71\nPrevious status: AVAILABLE SEATS\nNew status: BOOKINGS CLOSED\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 98,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Messina\nFormat: CENT@UNI\nCity: MESSINA\nExam Date: 26/11/2026\n\nPrevious seats: 62\nNew seats: 60\nPrevious status: AVAILABLE SEATS\nNew status: BOOKINGS CLOSED\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 99,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Sapienza Università di Roma\nFormat: CENT@HOME\nCity: ROMA\nExam Date: 26/11/2026\n\nPrevious seats: ---\nNew seats: 0\nPrevious status: NOT LONGER AVAILABLE\nNew status: BOOKINGS CLOSED\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 100,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Politecnico di Milano\nFormat: CENT@HOME\nCity: MILANO\nExam Date: 26/11/2026\n\nPrevious seats: ---\nNew seats: 0\nPrevious status: NOT LONGER AVAILABLE\nNew status: BOOKINGS CLOSED\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 101,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Università degli studi di Padova\nFormat: CENT@HOME\nCity: PADOVA\nExam Date: 26/11/2026\n\nPrevious seats: ---\nNew seats: 0\nPrevious status: NOT LONGER AVAILABLE\nNew status: BOOKINGS CLOSED\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 102,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Università degli studi di Teramo\nFormat: CENT@HOME\nCity: TERAMO\nExam Date: 26/11/2026\n\nPrevious seats: ---\nNew seats: 0\nPrevious status: NOT LONGER AVAILABLE\nNew status: BOOKINGS CLOSED\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 103,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Università Ca' Foscari Venezia\nFormat: CENT@HOME\nCity: VENEZIA\nExam Date: 26/11/2026\n\nPrevious seats: ---\nNew seats: 0\nPrevious status: NOT LONGER AVAILABLE\nNew status: BOOKINGS CLOSED\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
   }
  ],
- "next_id": 97,
+ "next_id": 104,
  "pending_empty": 0,
  "consecutive_failures": 0,
  "last_error_notice": null,
