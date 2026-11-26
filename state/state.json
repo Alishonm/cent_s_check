@@ -29,7 +29,7 @@
    "region": "LAZIO",
    "city": "ROMA",
    "deadline": "20/11/2026",
-   "seats": "0",
+   "seats": "9",
    "state": "BOOKINGS CLOSED",
    "date": "26/11/2026"
   },
@@ -39,7 +39,7 @@
    "region": "LOMBARDIA",
    "city": "MILANO",
    "deadline": "20/11/2026",
-   "seats": "0",
+   "seats": "11",
    "state": "BOOKINGS CLOSED",
    "date": "26/11/2026"
   },
@@ -89,7 +89,7 @@
    "region": "SICILIA",
    "city": "MESSINA",
    "deadline": "11/12/2026",
-   "seats": "16",
+   "seats": "13",
    "state": "AVAILABLE SEATS",
    "date": "17/12/2026"
   },
@@ -113,6 +113,16 @@
    "state": "NOT LONGER AVAILABLE",
    "date": "17/12/2026"
   },
+  "2a62d16df40ca8de": {
+   "format": "CENT@HOME",
+   "university": "Sapienza Università di Roma",
+   "region": "LAZIO",
+   "city": "ROMA",
+   "deadline": "06/01/2027",
+   "seats": "---",
+   "state": "NOT LONGER AVAILABLE",
+   "date": "12/01/2027"
+  },
   "d9973535a08f9a9c": {
    "format": "CENT@UNI",
    "university": "Politecnico di Torino",
@@ -129,7 +139,7 @@
   {
    "id": 14,
    "text": "🆕 تاریخ آزمون جدید CEnT-S پیدا شد!\n\nFormat: CENT@UNI\nUniversity: Universita' degli studi di Trieste\nRegion: FRIULI-VENEZIA GIULIA\nCity: TRIESTE\nExam Date: 26/11/2026\nBooking Deadline: 20/11/2026\nAvailable Seats: 152\nStatus: AVAILABLE SEATS\n✅ ثبت‌نام در حال حاضر باز به نظر می‌رسد.\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
-   "tries": 67,
+   "tries": 68,
    "silent": false
   },
   {
@@ -767,9 +777,33 @@
    "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Sapienza Universita' di Roma - Facolta' di Ingegneria (I3S) - Dipartimento di Scienze statistiche\nFormat: CENT@UNI\nCity: ROMA\nExam Date: 17/12/2026\n\nPrevious seats: 1\nNew seats: ---\nPrevious status: AVAILABLE SEATS\nNew status: NOT LONGER AVAILABLE\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
    "tries": 0,
    "silent": false
+  },
+  {
+   "id": 121,
+   "text": "🆕 تاریخ آزمون جدید CEnT-S پیدا شد!\n\nFormat: CENT@HOME\nUniversity: Sapienza Università di Roma\nRegion: LAZIO\nCity: ROMA\nExam Date: 12/01/2027\nBooking Deadline: 06/01/2027\nAvailable Seats: ---\nStatus: NOT LONGER AVAILABLE\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 122,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Sapienza Università di Roma\nFormat: CENT@HOME\nCity: ROMA\nExam Date: 26/11/2026\n\nPrevious seats: 0\nNew seats: 9\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 123,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Politecnico di Milano\nFormat: CENT@HOME\nCity: MILANO\nExam Date: 26/11/2026\n\nPrevious seats: 0\nNew seats: 11\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
+  },
+  {
+   "id": 124,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Messina\nFormat: CENT@UNI\nCity: MESSINA\nExam Date: 17/12/2026\n\nPrevious seats: 16\nNew seats: 13\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
   }
  ],
- "next_id": 121,
+ "next_id": 125,
  "pending_empty": 0,
  "consecutive_failures": 0,
  "last_error_notice": null,
