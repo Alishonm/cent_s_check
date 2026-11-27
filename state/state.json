@@ -3,76 +3,6 @@
  "initialized": true,
  "url": "https://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
  "sessions": {
-  "8143dfa01b2cd02f": {
-   "format": "CENT@UNI",
-   "university": "Universita' degli studi di Trieste",
-   "region": "FRIULI-VENEZIA GIULIA",
-   "city": "TRIESTE",
-   "deadline": "20/11/2026",
-   "seats": "71",
-   "state": "BOOKINGS CLOSED",
-   "date": "26/11/2026"
-  },
-  "a841078eb7400275": {
-   "format": "CENT@UNI",
-   "university": "Universita' degli studi di Messina",
-   "region": "SICILIA",
-   "city": "MESSINA",
-   "deadline": "20/11/2026",
-   "seats": "60",
-   "state": "BOOKINGS CLOSED",
-   "date": "26/11/2026"
-  },
-  "f967b6e58287df34": {
-   "format": "CENT@HOME",
-   "university": "Sapienza Università di Roma",
-   "region": "LAZIO",
-   "city": "ROMA",
-   "deadline": "20/11/2026",
-   "seats": "9",
-   "state": "BOOKINGS CLOSED",
-   "date": "26/11/2026"
-  },
-  "37d87db5169084ef": {
-   "format": "CENT@HOME",
-   "university": "Politecnico di Milano",
-   "region": "LOMBARDIA",
-   "city": "MILANO",
-   "deadline": "20/11/2026",
-   "seats": "11",
-   "state": "BOOKINGS CLOSED",
-   "date": "26/11/2026"
-  },
-  "4467cf7beeaca288": {
-   "format": "CENT@HOME",
-   "university": "Università degli studi di Padova",
-   "region": "VENETO",
-   "city": "PADOVA",
-   "deadline": "20/11/2026",
-   "seats": "0",
-   "state": "BOOKINGS CLOSED",
-   "date": "26/11/2026"
-  },
-  "909f74abc4c874cd": {
-   "format": "CENT@HOME",
-   "university": "Università degli studi di Teramo",
-   "region": "ABRUZZO",
-   "city": "TERAMO",
-   "deadline": "20/11/2026",
-   "seats": "0",
-   "state": "BOOKINGS CLOSED",
-   "date": "26/11/2026"
-  },
-  "a85ba2a361fad6e8": {
-   "format": "CENT@HOME",
-   "university": "Università Ca' Foscari Venezia",
-   "region": "VENETO",
-   "city": "VENEZIA",
-   "deadline": "20/11/2026",
-   "seats": "0",
-   "state": "BOOKINGS CLOSED",
-   "date": "26/11/2026"
-  },
   "2a178881612bf8b2": {
    "format": "CENT@UNI",
    "university": "Sapienza Universita' di Roma - Facolta' di Ingegneria (I3S) - Dipartimento di Scienze statistiche",
@@ -89,7 +19,7 @@
    "region": "SICILIA",
    "city": "MESSINA",
    "deadline": "11/12/2026",
-   "seats": "13",
+   "seats": "7",
    "state": "AVAILABLE SEATS",
    "date": "17/12/2026"
   },
@@ -139,7 +69,7 @@
   {
    "id": 14,
    "text": "🆕 تاریخ آزمون جدید CEnT-S پیدا شد!\n\nFormat: CENT@UNI\nUniversity: Universita' degli studi di Trieste\nRegion: FRIULI-VENEZIA GIULIA\nCity: TRIESTE\nExam Date: 26/11/2026\nBooking Deadline: 20/11/2026\nAvailable Seats: 152\nStatus: AVAILABLE SEATS\n✅ ثبت‌نام در حال حاضر باز به نظر می‌رسد.\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
-   "tries": 70,
+   "tries": 71,
    "silent": false
   },
   {
@@ -801,10 +731,16 @@
    "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Messina\nFormat: CENT@UNI\nCity: MESSINA\nExam Date: 17/12/2026\n\nPrevious seats: 16\nNew seats: 13\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
    "tries": 0,
    "silent": false
+  },
+  {
+   "id": 125,
+   "text": "🔔 تعداد صندلی‌ها (Seats) تغییر کرد!\n\nUniversity: Universita' degli studi di Messina\nFormat: CENT@UNI\nCity: MESSINA\nExam Date: 17/12/2026\n\nPrevious seats: 13\nNew seats: 7\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
+   "tries": 0,
+   "silent": false
   }
  ],
- "next_id": 125,
- "pending_empty": 2,
+ "next_id": 126,
+ "pending_empty": 0,
  "consecutive_failures": 0,
  "last_error_notice": null,
  "error_active": false
