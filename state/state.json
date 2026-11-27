@@ -139,7 +139,7 @@
   {
    "id": 14,
    "text": "🆕 تاریخ آزمون جدید CEnT-S پیدا شد!\n\nFormat: CENT@UNI\nUniversity: Universita' degli studi di Trieste\nRegion: FRIULI-VENEZIA GIULIA\nCity: TRIESTE\nExam Date: 26/11/2026\nBooking Deadline: 20/11/2026\nAvailable Seats: 152\nStatus: AVAILABLE SEATS\n✅ ثبت‌نام در حال حاضر باز به نظر می‌رسد.\n\nView official calendar:\nhttps://testcisia.it/calendario.php?tolc=cents&l=gb&lingua=inglese",
-   "tries": 68,
+   "tries": 69,
    "silent": false
   },
   {
@@ -804,7 +804,7 @@
   }
  ],
  "next_id": 125,
- "pending_empty": 0,
+ "pending_empty": 1,
  "consecutive_failures": 0,
  "last_error_notice": null,
  "error_active": false
